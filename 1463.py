@@ -4,7 +4,6 @@
 # def div_three(x_num):
 #     x_num = x_num/3
 #     return x_num
-#
 # def div_two(x_num):
 #     x_num = x_num/2
 #     return x_num
